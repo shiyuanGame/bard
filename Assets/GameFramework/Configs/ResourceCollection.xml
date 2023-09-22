@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="Configs/ResourceEditor" LoadType="0" Packed="False" />
+      <Resource Name="Enemy/Cube" LoadType="0" Packed="False" />
+      <Resource Name="test" LoadType="0" Packed="True" />
+    </Resources>
+    <Assets>
+      <Asset Guid="2f7e3f2ced546754f8cabd63dab32353" ResourceName="Enemy/Cube" />
+      <Asset Guid="672ba05463d2b904898f04e7d947c6aa" ResourceName="Configs/ResourceEditor" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>
